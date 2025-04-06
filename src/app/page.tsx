@@ -58,9 +58,9 @@ export default function Home() {
 
           <div className="text-left md:text-center max-w-3xl mx-auto mb-20">
             <h2 className="text-3xl font-semibold mb-4">About Me</h2>
-            <p className="text-gray-700 text-lg md:text-xl">
-            `I'm a passionate software engineering student...`
-            </p>
+          <p className="text-gray-700 text-lg md:text-xl">
+          I&apos;m a passionate software engineering student focused on building systems...
+          </p>
           </div>
 
           <div className="text-left md:text-center max-w-4xl mx-auto mt-20 mb-24">
