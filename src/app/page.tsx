@@ -59,7 +59,7 @@ export default function Home() {
           <div className="text-left md:text-center max-w-3xl mx-auto mb-20">
             <h2 className="text-3xl font-semibold mb-4">About Me</h2>
             <p className="text-gray-700 text-lg md:text-xl">
-              I'm a passionate software engineering student focused on building systems that are scalable, cloud-native, and impactful. From real-time trading algorithms to full-stack apps, I enjoy solving technical problems that blend data, design, and functionality. I’m currently deepening my experience with AWS, backend development, and hardware-level logic through both academic and personal projects.
+            `I'm a passionate software engineering student...`
             </p>
           </div>
 
