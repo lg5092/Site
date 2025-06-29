@@ -35,7 +35,7 @@ export default function Home() {
           </p>
           <div className="flex justify-center space-x-4 mb-16">
             <Link
-              href="https://github.com/your-github"
+              href="https://github.com/lg5092"
               target="_blank"
               className="border rounded-full p-2 hover:bg-gray-200 transition"
             >
@@ -48,7 +48,7 @@ export default function Home() {
               <Mail size={28} />
             </Link>
             <Link
-              href="https://linkedin.com/in/your-linkedin"
+              href="https://www.linkedin.com/in/louiggi-gaitan-167649139/"
               target="_blank"
               className="border rounded-full p-2 hover:bg-gray-200 transition"
             >
