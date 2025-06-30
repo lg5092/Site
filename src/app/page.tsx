@@ -31,7 +31,7 @@ export default function Home() {
           </div>
           <h1 className="text-5xl md:text-7xl font-bold mb-6">Hello, I am Louiggi Gaitan</h1>
           <p className="text-xl md:text-2xl mb-8">
-            Software Engineering Student @ UC Irvine · Cloud & Systems Enthusiast
+            Computer Science and Engineering Student | UC Irvine 
           </p>
           <div className="flex justify-center space-x-4 mb-16">
             <Link
