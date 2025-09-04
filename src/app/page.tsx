@@ -31,7 +31,7 @@ export default function Home() {
           </div>
           <h1 className="text-5xl md:text-7xl font-bold mb-6">Hello, I am Louiggi Gaitan</h1>
           <p className="text-xl md:text-2xl mb-8">
-            Computer Science and Engineering Student | UC Irvine 
+            Computer Science and Engineering Student | University of California, Irvine 
           </p>
           <div className="flex justify-center space-x-4 mb-16">
             <Link
@@ -48,7 +48,7 @@ export default function Home() {
               <Mail size={28} />
             </Link>
             <Link
-              href="https://www.linkedin.com/in/louiggi-gaitan-167649139/"
+              href="https://www.linkedin.com/in/louiggi/"
               target="_blank"
               className="border rounded-full p-2 hover:bg-gray-200 transition"
             >
@@ -107,7 +107,7 @@ export default function Home() {
             >
               <h3 className="text-2xl font-bold">Stock Trading Algorithm</h3>
               <p className="mt-3 text-gray-700 text-lg">
-                C++ bot using Alpaca API with SMA strategy for real-time and backtested trades.
+                C++ bot using Alpaca API with SMA strategy for real-time and backtested trades
               </p>
             </motion.div>
           </a>
@@ -123,7 +123,7 @@ export default function Home() {
             >
               <h3 className="text-2xl font-bold">Search Trends vs Stock Price Web App</h3>
               <p className="mt-3 text-gray-700 text-lg">
-                Flask + JS dashboard using Google Trends and Polygon APIs with interactive Chart.js.
+                Flask + JS dashboard using Google Trends and Polygon APIs with interactive Chart.js
               </p>
             </motion.div>
           </a>
@@ -139,7 +139,7 @@ export default function Home() {
             >
               <h3 className="text-2xl font-bold">Cloud-Based URL Shortener</h3>
               <p className="mt-3 text-gray-700 text-lg">
-                Serverless AWS Lambda + DynamoDB project that hashes URLs for scalable shortening.
+                Serverless AWS Lambda + DynamoDB project that hashes URLs for scalable shortening
               </p>
             </motion.div>
           </a>
@@ -155,7 +155,7 @@ export default function Home() {
             >
               <h3 className="text-2xl font-bold">MIPS 32-bit Pipelined Processor</h3>
               <p className="mt-3 text-gray-700 text-lg">
-                Verilog project simulating a 5-stage pipelined CPU with forwarding and hazard handling.
+                Verilog project simulating a 5-stage pipelined CPU with forwarding and hazard handling
               </p>
             </motion.div>
           </a>
