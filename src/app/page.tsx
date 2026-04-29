@@ -21,7 +21,7 @@ export default function Home() {
         >
           <div className="mb-8 flex justify-center">
             <Image
-              src="/pic.jpg"
+              src="/pic.JPG"
               alt="Louiggi Gaitan"
               width={140}
               height={140}
