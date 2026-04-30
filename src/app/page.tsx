@@ -20,14 +20,16 @@ export default function Home() {
           className="text-center"
         >
           <div className="mb-8 flex justify-center">
-            <Image
-              src="/pic2.jpg"
-              alt="Louiggi Gaitan"
-              width={140}
-              height={100}
-              className="rounded-full shadow-lg"
-              priority
-            />
+            <div className="w-[140px] h-[140px] rounded-full overflow-hidden shadow-lg">
+              <Image
+                src="/pic2.jpg"
+                alt="Louiggi Gaitan"
+                width={140}
+                height={140}
+                className="rounded-full object-cover w-full h-full"
+                priority
+              />
+              </div>
           </div>
           <h1 className="text-5xl md:text-7xl font-bold mb-6">Hello, I am Louiggi Gaitan</h1>
           <p className="text-xl md:text-2xl mb-8">
