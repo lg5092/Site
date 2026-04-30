@@ -24,8 +24,8 @@ export default function Home() {
               <Image
                 src="/pic2.jpg"
                 alt="Louiggi Gaitan"
-                width={140}
-                height={140}
+                width={190}
+                height={190}
                 className="rounded-full object-cover w-full h-full"
                 priority
               />
