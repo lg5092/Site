@@ -24,7 +24,7 @@ export default function Home() {
               src="/pic2.jpg"
               alt="Louiggi Gaitan"
               width={140}
-              height={140}
+              height={100}
               className="rounded-full shadow-lg"
               priority
             />
