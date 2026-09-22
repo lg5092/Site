@@ -99,6 +99,22 @@ export default function Home() {
           <h2 className="text-3xl font-semibold">Projects</h2>
 
           <a
+            href = "https://blackjack-trainer-sepia.vercel.app/"
+            target ="_blank"
+            rel="nooperner noreferrer"
+          >
+            <motion.div
+              whileHover={{ scale: 1.02}}
+              className="border rounded-xl p-6 shadow cursor-pointer hover:bg-gray-50 transition"
+            >
+              <h3 className="text-2xl font-bold">AI-Integrated Blackjack Trainer</h3>
+              <p className="mt-3 text-gray-700 text-lg">
+                Blackjack Trainer that teaches basic strategy for beginners by giving AI-assisted advice
+              </p>
+            </motion.div>
+          </a>
+
+          <a
             href="https://github.com/lg5092/TradingAlgo"
             target="_blank"
             rel="noopener noreferrer"
