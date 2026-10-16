@@ -44,7 +44,7 @@ export default function Home() {
               <GithubIcon size={28} />
             </Link>
             <Link
-              href="mailto:mrlouiggi@gmail.com"
+              href="mailto:louiggigaitan@gmail.com"
               className="border rounded-full p-2 hover:bg-gray-200 transition"
             >
               <Mail size={28} />
@@ -101,7 +101,7 @@ export default function Home() {
           <a
             href = "https://blackjack-trainer-sepia.vercel.app/"
             target ="_blank"
-            rel="nooperner noreferrer"
+            rel="noopener noreferrer"
           >
             <motion.div
               whileHover={{ scale: 1.02}}
@@ -142,22 +142,6 @@ export default function Home() {
               <h3 className="text-2xl font-bold">Search Trends vs Stock Price Web App</h3>
               <p className="mt-3 text-gray-700 text-lg">
                 Flask + JS dashboard using Google Trends and Polygon APIs with interactive Chart.js
-              </p>
-            </motion.div>
-          </a>
-
-          <a
-            href="https://github.com/lg5092/UrlShortener"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <motion.div
-              whileHover={{ scale: 1.02 }}
-              className="border rounded-xl p-6 shadow cursor-pointer hover:bg-gray-50 transition"
-            >
-              <h3 className="text-2xl font-bold">Cloud-Based URL Shortener</h3>
-              <p className="mt-3 text-gray-700 text-lg">
-                Serverless AWS Lambda + DynamoDB project that hashes URLs for scalable shortening
               </p>
             </motion.div>
           </a>
